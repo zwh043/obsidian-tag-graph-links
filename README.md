@@ -10,7 +10,7 @@
 
 | 插件关闭 | 插件开启 |
 |---------|---------|
-| 把第一张图拖到这里 | 把第二张图拖到这里 |
+| <img width="441" height="312" alt="插件前" src="https://github.com/user-attachments/assets/ffee1ff4-0071-49f7-9ce7-f35faee3ef8f" /> | <img width="339" height="252" alt="插件后" src="https://github.com/user-attachments/assets/0e7f4308-4e95-4955-a13f-84d2db4c4b35" /> |
 
 「一隅矣：孤芳」和「旅行人像1」共享 `#色调` 标签，开启后两者之间出现一条红色连线。
 
