@@ -4,6 +4,7 @@
   "version": "0.2.0",
   "minAppVersion": "1.4.0",
   "description": "在关系图谱中为拥有相同标签的笔记之间生成连线，可自定义颜色，与普通双向链接区分。图谱控制面板内置开关与取色器。",
-  "author": "you",
+  "author": "Ohyep",
+  "authorUrl": "https://github.com/zwh043",
   "isDesktopOnly": false
 }
